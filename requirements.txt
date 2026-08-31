@@ -1,0 +1,9 @@
+streamlit
+tensorflow-cpu
+Pillow
+numpy
+librosa
+matplotlib
+noisereduce
+opencv-python-headless
+fpdf
